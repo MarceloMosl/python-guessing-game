@@ -14,4 +14,4 @@ Fun game to distract yourself when you should be paying attention in class. :)
 
 ### Pro Tip 
 
-If you calculate your guesses, you will always will!
+If you calculate your guesses, you will always win!
