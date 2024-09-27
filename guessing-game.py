@@ -14,7 +14,7 @@ def getChosenNumber(low: int, high: int):
 
 
 def main():
-  hiddenNumber = 393 # random.randint(1, 1000)
+  hiddenNumber = random.randint(1, 1000)
 
   guessCounter = 1
 
